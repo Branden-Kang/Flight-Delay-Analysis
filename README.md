@@ -7,12 +7,12 @@ The dataset is about The U.S. Department of Transportation’s (DOT) Bureau of T
 2. EXPLANATORY DATA ANALYSIS
 
 First, I cleaned the data, performed the explorary data analysis, and visualized the data to get some insights from them. After that, I built the regression models and predict the delays of the airlines.
-- visualization: matplolib, seaborn, basemap
-- data manipulation: pandas, numpy
+- Visualization: matplolib, seaborn, basemap
+- Data manipulation: pandas, numpy
 
 3. Building the models
-- modeling: sklearn, scipy
-- class definition: regression, figures
+- Modeling: sklearn, scipy
+- Class definition: regression, figures
 
 4. Conclusion
 
